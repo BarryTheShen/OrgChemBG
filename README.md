@@ -1,5 +1,7 @@
 # Organic Chemistry Board Game
 
+[中文](https://github.com/BarryTheShen/OrgChemBG/blob/main/README_CHI.md) | English
+
 **Special Thanks**  
 Special thanks to [nandeck](http://www.nandeck.com/), Wikipedia, and ChatGPT for their invaluable contributions in composing the cards, providing some of the reactant images, and assisting with coding and game development.
 
@@ -13,7 +15,7 @@ This project is licensed under the Creative Commons Attribution-NonCommercial 4.
 
 ## How to Play
 
-To start playing, download the release version of the game from the [Releases tab](https://github.com/your-repo/releases). The release includes a PDF file that you can print on both sides and cut out to create the cards.
+To start playing, download the release version of the game from the [Releases tab](https://github.com/BarryTheShen/OrgChemBG/releases). The release includes a PDF file that you can print on both sides and cut out to create the cards.
 
 ## Rules of the Board Game
 
@@ -29,7 +31,7 @@ To start playing, download the release version of the game from the [Releases ta
 
 2. **Normal Cards**
    
-   - These cards represent common reagents and are drawn from a communal pile. Each player draws four cards at the start of their turn. If a player has two or more identical cards, they can use them to ban a reaction for all players. The ban can be lifted by another player using the same number of identical cards.
+   - These cards represent common reagents and are drawn from a communal pile. Each player draws four cards at the start of their turn. 
 
 3. **Premium Cards**
    
