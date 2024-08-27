@@ -1,0 +1,43 @@
+2,3-dimethylcyclohexan-1-one
+2,4-dimethylcyclohexan-1-one
+2,5-dimethylcyclohexan-1-one
+3,4-dimethylcyclohexan-1-one
+3,5-dimethylcyclohexan-1-one
+2,6-dimethylcyclohexan-1-one
+5,6-dimethylcyclohex-2-en-1-one
+4,6-dimethylcyclohex-2-en-1-one
+3,6-dimethylcyclohex-2-en-1-one
+3,4-dimethylcyclohex-2-en-1-one
+3,5-dimethylcyclohex-2-en-1-one
+2,6-dimethylcyclohex-2-en-1-one
+2,3-dimethylcyclohex-2-en-1-one
+2,4-dimethylcyclohex-2-en-1-one
+2,5-dimethylcyclohex-2-en-1-one
+2-acetylcyclohexan-1-one
+2-acetylcyclohex-2-en-1-one
+3-acetylcyclohexan-1-one
+3-acetylcyclohex-2-en-1-one
+4-acetylcyclohexan-1-one
+4-acetylcyclohex-2-en-1-one
+ethyl 2-oxooxane-3-carboxylate
+IUPAC name not found
+IUPAC name not found
+ethyl 4-methyl-2-oxooxane-3-carboxylate
+IUPAC name not found
+IUPAC name not found
+IUPAC name not found
+IUPAC name not found
+5,5-dimethyl-1,3-diazinan-2-one
+N-methylcyclohexanecarboxamide
+2,2-dimethyl-1,3-dioxane-4,6-dione
+oxane-2,3,4,5,6-pentol
+3,4,5,6-tetrahydroxyoxane-2-carboxylic acid
+IUPAC name not found
+oxolane-2,3,4,5-tetrol
+oxolane-2,3,5-triol
+5,5-dimethylcyclohexane-1,3-dione
+2,3-diformyloxypropyl formate
+2,3-diacetyloxypropyl acetate
+2,3-di(propanoyloxy)propyl propanoate
+2,3-di(butanoyloxy)propyl butanoate
+1,3-bis(2-chloroethyl)urea
