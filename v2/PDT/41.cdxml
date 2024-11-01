@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE CDXML SYSTEM "https://static.chemistry.revvitycloud.com/cdxml/CDXML.dtd" >
+<CDXML
+ CreationProgram="ChemDraw 23.0.1.10"
+ Name="41.cdxml"
+ BoundingBox="15.28 82.74 186.88 134.38"
+ WindowPosition="0 0"
+ WindowSize="-2147483648 -1073741824"
+ WindowIsZoomed="yes"
+ FractionalWidths="yes"
+ InterpretChemically="yes"
+ ShowAtomQuery="yes"
+ ShowAtomStereo="no"
+ ShowAtomEnhancedStereo="yes"
+ ShowAtomNumber="no"
+ ShowResidueID="no"
+ ShowBondQuery="yes"
+ ShowBondRxn="yes"
+ ShowBondStereo="no"
+ ShowTerminalCarbonLabels="no"
+ ShowNonTerminalCarbonLabels="no"
+ HideImplicitHydrogens="no"
+ Magnification="250"
+ LabelFont="3"
+ LabelSize="42.85"
+ LabelFace="96"
+ CaptionFont="3"
+ CaptionSize="42.85"
+ HashSpacing="10.71"
+ MarginWidth="6.86"
+ LineWidth="2.57"
+ BoldWidth="8.57"
+ BondLength="61.71"
+ BondSpacing="18"
+ ChainAngle="120"
+ LabelJustification="Auto"
+ CaptionJustification="Left"
+ AminoAcidTermini="HOH"
+ ShowSequenceTermini="yes"
+ ShowSequenceBonds="yes"
+ ShowSequenceUnlinkedBranches="no"
+ ResidueWrapCount="40"
+ ResidueBlockCount="10"
+ PrintMargins="36 36 36 36"
+ MacPrintInfo="0003000001200120000000000B6608A0FF84FF880BE309180367052703FC0002000001200120000000000B6608A0000100000064000000010001010100000001270F000100010000000000000000000000000002001901900000000000600000000000000000000100000000000000000000000000000000"
+ ChemPropName=""
+ ChemPropFormula="Chemical Formula: "
+ ChemPropExactMass="Exact Mass: "
+ ChemPropMolWt="Molecular Weight: "
+ ChemPropMOverZ="m/z: "
+ ChemPropAnalysis="Elemental Analysis: "
+ ChemPropBoilingPt="Boiling Point: "
+ ChemPropMeltingPt="Melting Point: "
+ ChemPropCritTemp="Critical Temp: "
+ ChemPropCritPres="Critical Pres: "
+ ChemPropCritVol="Critical Vol: "
+ ChemPropGibbs="Gibbs Energy: "
+ ChemPropLogP="Log P: "
+ ChemPropMR="MR: "
+ ChemPropHenry="Henry&apos;s Law: "
+ ChemPropEForm="Heat of Form: "
+ ChemProptPSA="tPSA: "
+ ChemPropCLogP="CLogP: "
+ ChemPropCMR="CMR: "
+ ChemPropLogS="LogS: "
+ ChemPropPKa="pKa: "
+ ChemPropID=""
+ ChemPropFragmentLabel=""
+ color="0"
+ bgcolor="1"
+ RxnAutonumberStart="1"
+ RxnAutonumberConditions="no"
+ RxnAutonumberStyle="Roman"
+ RxnAutonumberFormat="(#)"
+ MonomerRenderingStyle="graphic"
+><colortable>
+<color r="1" g="1" b="1"/>
+<color r="0" g="0" b="0"/>
+<color r="1" g="0" b="0"/>
+<color r="1" g="1" b="0"/>
+<color r="0" g="1" b="0"/>
+<color r="0" g="1" b="1"/>
+<color r="0" g="0" b="1"/>
+<color r="1" g="0" b="1"/>
+</colortable><fonttable>
+<font id="3" charset="iso-8859-1" name="Arial"/>
+</fonttable><page
+ id="43"
+ BoundingBox="0 0 216 216"
+ Width="216"
+ Height="216"
+ HeaderPosition="36"
+ FooterPosition="36"
+ PageOverlap="0"
+ PrintTrimMarks="yes"
+ HeightPages="1"
+ WidthPages="1"
+ DrawingSpace="poster"
+><fragment
+ id="8"
+ BoundingBox="15.28 82.74 186.88 134.38"
+ Z="29"
+><n
+ id="7"
+ p="69.37 132.90"
+ Z="28"
+ AS="N"
+ AtomID="1"
+/><n
+ id="9"
+ p="122.62 102.15"
+ Z="30"
+ NodeType="Fragment"
+ NeedsClean="yes"
+ AS="N"
+ AtomID="2"
+><fragment
+ id="44"
+><n
+ id="45"
+ p="122.62 102.15"
+ Element="8"
+ NumHydrogens="0"
+/><n
+ id="46"
+ p="229.49 163.84"
+/><n
+ id="47"
+ p="282.92 132.98"
+/><n
+ id="48"
+ p="336.36 163.83"
+/><n
+ id="49"
+ p="336.36 225.53"
+/><n
+ id="50"
+ p="282.93 256.38"
+/><n
+ id="51"
+ p="229.49 225.54"
+/><n
+ id="52"
+ p="389.80 256.37"
+/><n
+ id="53"
+ p="176.05 132.99"
+ Element="16"
+ NumHydrogens="0"
+/><n
+ id="54"
+ p="206.90 79.56"
+ Element="8"
+ NumHydrogens="0"
+/><n
+ id="55"
+ p="145.21 186.43"
+ Element="8"
+ NumHydrogens="0"
+/><n
+ id="56"
+ p="69.19 133"
+ NodeType="ExternalConnectionPoint"
+/><b
+ id="57"
+ B="53"
+ E="54"
+ Order="2"
+/><b
+ id="58"
+ B="53"
+ E="55"
+ Order="2"
+/><b
+ id="59"
+ B="50"
+ E="51"
+ Order="2"
+/><b
+ id="60"
+ B="49"
+ E="50"
+/><b
+ id="61"
+ B="49"
+ E="52"
+/><b
+ id="62"
+ B="48"
+ E="49"
+ Order="2"
+/><b
+ id="63"
+ B="47"
+ E="48"
+/><b
+ id="64"
+ B="46"
+ E="47"
+ Order="2"
+/><b
+ id="65"
+ B="46"
+ E="51"
+/><b
+ id="66"
+ B="46"
+ E="53"
+/><b
+ id="67"
+ B="45"
+ E="53"
+/><b
+ id="68"
+ B="56"
+ E="45"
+/></fragment><t
+ p="105.95 119.02"
+ BoundingBox="105.95 82.74 186.88 119.52"
+ LabelJustification="Left"
+ LabelAlignment="Left"
+><s font="3" size="42.85" color="0" face="96">OTs</s></t></n><n
+ id="40"
+ p="15.92 102.05"
+ Z="32"
+ AS="N"
+ AtomID="3"
+/><b
+ id="10"
+ Z="31"
+ B="7"
+ E="9"
+ BS="N"
+/><b
+ id="41"
+ Z="33"
+ B="7"
+ E="40"
+ BS="N"
+/></fragment></page></CDXML>
