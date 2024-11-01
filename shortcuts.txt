@@ -1,0 +1,8 @@
+lLINK:LINK=data.xlsx
+tTEXT:FONT=Arial,12,,#000000
+TEXT=1-{(text)},[text],0,0,100%,100%
+hHTMLTEXT:HTMLFONT=font_#COUNTER1#_,Arial,12,,#000000
+HTMLTEXT=1-{(text)},[text],0,0,100%,100%,#FFFFFF,0,BE,100,font_#COUNTER1#_
+pIMAGE:IMAGE=1-{(img)},[img],0,0,100%,100%,0,PN
+iICON:ICON=,(_#COUNTERA#_),_#COUNTERA#_.png
+IICONS:ICONS=1-{(ico)},[ico],0,0,100%,100%,20%,20%,0,PN
