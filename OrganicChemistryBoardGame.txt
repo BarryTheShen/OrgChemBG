@@ -1,7 +1,7 @@
 UNIT=CM
 CARDSIZE=5.7, 8.7
 
-LinkMulti = Amount
+LinkMulti = OFF
 LINK="D:\Barry\Organic Chemistry Board Game\OrganicChemistryBoardGame v2.1.xlsx"
 
 VISUAL=, 10, 10
