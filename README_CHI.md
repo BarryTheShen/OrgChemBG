@@ -87,7 +87,7 @@ PDT是一类小产品卡片，合成后可兑换特权卡，类似货币。合�
 
 这是竞争模式的示例布局：
 
-![ Alt Text]()
+![ Alt Text](https://github.com/BarryTheShen/OrgChemBG/blob/main/Resources/competitive%20image.png)
 
 ### 游戏规则
 
