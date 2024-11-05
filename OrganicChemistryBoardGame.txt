@@ -2,7 +2,7 @@ UNIT=CM
 CARDSIZE=5.4, 8.6
 
 LinkMulti = Amount
-LINK="D:\Barry\Organic Chemistry Board Game\OrganicChemistryBoardGame v2.1.xlsx"
+LINK="D:\Barry\Organic Chemistry Board Game\OrganicChemistryBoardGame v2.1 w extra.xlsx"
 
 VISUAL=S, 10, 10
 ;TYPE TEMPLATE
